@@ -46,6 +46,8 @@ An awesome collection of courses, books, tutorials, software and other resources
 ## Courses
 
 - [Cisco Networking Academy Courses](https://www.netacad.com/courses/networking) - A various networking courses (Essentials, CCNA, CCNP, etc.).
+- [CBT Nuggets](https://www.cbtnuggets.com/) - An excelent place to start with the courses on various topics (Cisco, Juniper, CompTIA, etc.).
+- [ipSpace](https://www.ipspace.net/) - Contains excelent courses and webinars on various network topics, for both beginners and advanced people.
 - [GNS3 Academy](https://academy.gns3.com/) - A various number of courses related to the networking with GNS3 software.
 - [The Complete Networking Fundamentals Course](https://www.udemy.com/complete-networking-fundamentals-course-ccna-start/) - The most popular Networking Essentials course on Udemy.
 
@@ -67,6 +69,7 @@ An awesome collection of courses, books, tutorials, software and other resources
 - [Practical Packet Analysis (3rd Edition)](https://nostarch.com/packetanalysis3) - An amazing book about analyzing network packets using Wireshark.
 - [Attacking Network Protocols](https://nostarch.com/networkprotocols) - A Hacker's Guide to Capture, Analysis, and Exploitation
 by James Forshaw.
+- [Cisco Press](https://www.ciscopress.com/) - Cisco authorized book publisher where you can get all books and official guides for Cisco certifications.
 
 
 ## Software
@@ -80,7 +83,8 @@ by James Forshaw.
 - [pfSense](https://www.pfsense.org/) - An open source firewall/router computer software distribution based on FreeBSD.
 - [WinBox](https://mikrotik.com/download) - Official MikroTik GUI software for administration of MikroTik RouterOS.
 - [Online nslookup](https://www.nslookup.io) - An online DNS client to view and debug DNS configuration.
-
+- [Online whois](https://whois.domaintools.com/) - An online whois record tool for getting information about domains.
+- [Draw.io](https://github.com/jgraph/drawio-desktop) - An open source software for creating network diagrams and topologies.
 
 ## Certifications
 
