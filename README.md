@@ -1,6 +1,6 @@
 # Awesome Networking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An awesome collection of courses, books, tutorials, softwares and other resources about Networking.
+An awesome collection of courses, books, tutorials, software and other resources about networking.
 
 
 ## Contents
@@ -12,7 +12,7 @@ An awesome collection of courses, books, tutorials, softwares and other resource
 - [Software](#software)
 - [Certifications](#certifications)
 - [Miscellaneous](#miscellaneous)
-- [Licence](#licence)
+- [License](#license)
 
 
 ## TCP/IP Protocols
@@ -52,18 +52,18 @@ An awesome collection of courses, books, tutorials, softwares and other resource
 
 ## Tutorials
 
-- [Networking](https://www.youtube.com/watch?v=rL8RSFQG8do&list=PLF360ED1082F6F2A5) - A series of YouTube tutorials about Networking by Eli the Computer Guy.
+- [Networking](https://www.youtube.com/watch?v=rL8RSFQG8do&list=PLF360ED1082F6F2A5) - A series of YouTube tutorials about networking by Eli the Computer Guy.
 - [Wireshark Tutorial for Beginners](https://www.youtube.com/watch?v=flDzURAm8wQ&list=PL6gx4Cwl9DGBI2ZFuyZOl5Q7sptR7PwYN) - TheNewBoston Wireshark Tutorial for Beginners.
-- [MikroTik WinBox Manual](https://wiki.mikrotik.com/wiki/Manual:Winbox) - The offical manual for MikroTik's WinBox software.
+- [MikroTik WinBox Manual](https://wiki.mikrotik.com/wiki/Manual:Winbox) - The official manual for MikroTik's WinBox software.
 
 
 ## Books
 
 - [Computer Networking: A Top-Down Approach (7th Edition)](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) - Excellent book for beginners (and advanced people) in networking.
 - [Internetworking with TCP/IP Volume One (6th Edition)](https://www.amazon.com/Internetworking-TCP-IP-One-6th/dp/013608530X) - A rich introduction book to the TCP/IP protocols and Internetworking.
-- [Network Security Essentials: Applications and Standards (6th Edition)](https://www.amazon.com/Network-Security-Essentials-Applications-Standards/dp/013452733X/ref=dp_ob_title_bk?dpID=51w2GUny6WL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=detail) - A practical survey of network security applications and standards.
+- [Network Security Essentials: Applications and Standards (6th Edition)](https://www.amazon.com/Network-Security-Essentials-Applications-Standards/dp/013452733X/) - A practical survey of network security applications and standards.
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - A free digital book about socket programming by Brian "Beej" Hall.
-- [Red Hat Enterprise Linux 7 Networking Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/pdf/networking_guide/Red_Hat_Enterprise_Linux-7-Networking_Guide-en-US.pdf) - The offical Red Hat's networking guide for Red Hat Enterprise Linux.
+- [Red Hat Enterprise Linux 7 Networking Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/pdf/networking_guide/Red_Hat_Enterprise_Linux-7-Networking_Guide-en-US.pdf) - The official Red Hat's networking guide for Red Hat Enterprise Linux.
 - [Practical Packet Analysis (3rd Edition)](https://nostarch.com/packetanalysis3) - An amazing book about analyzing network packets using Wireshark.
 - [Attacking Network Protocols](https://nostarch.com/networkprotocols) - A Hacker's Guide to Capture, Analysis, and Exploitation
 by James Forshaw.
@@ -77,8 +77,9 @@ by James Forshaw.
 - [Zenmap](https://nmap.org/zenmap/) - The official Nmap Security Scanner GUI.
 - [GNS3](https://gns3.com/) - A powerful free and open source network simulator.
 - [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) - Cross-platform network visual simulation tool designed by Cisco Systems.
-- [pfSense](https://www.pfsense.org/) - An open source firewall/router computer software distribution based on FreeBSD
-- [WinBox](https://mikrotik.com/download) - Offical MikroTik GUI software for administration of MikroTik RouterOS.
+- [pfSense](https://www.pfsense.org/) - An open source firewall/router computer software distribution based on FreeBSD.
+- [WinBox](https://mikrotik.com/download) - Official MikroTik GUI software for administration of MikroTik RouterOS.
+- [Online nslookup](https://www.nslookup.io) - An online DNS client to view and debug DNS configuration.
 
 
 ## Certifications
@@ -98,6 +99,6 @@ by James Forshaw.
 - [Server Fault](https://serverfault.com/) - A question and answer site for system and network administrators.
 
 
-## Licence
+## License
 
-This repository is under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) licence.
+This repository is under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
