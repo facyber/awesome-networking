@@ -72,7 +72,7 @@ by James Forshaw.
 - [Cisco Press](https://www.ciscopress.com/) - Cisco authorized book publisher where you can get all books and official guides for Cisco certifications.
 
 
-## Software
+## Software and Tools
 
 - [Wireshark](https://www.wireshark.org/) - The most popular free and open source network protocol analyzer.
 - [tcpdump](http://www.tcpdump.org/) - A powerful open source command-line packet analyzer.
@@ -84,6 +84,7 @@ by James Forshaw.
 - [WinBox](https://mikrotik.com/download) - Official MikroTik GUI software for administration of MikroTik RouterOS.
 - [Online nslookup](https://www.nslookup.io) - An online DNS client to view and debug DNS configuration.
 - [Online whois](https://whois.domaintools.com/) - An online whois record tool for getting information about domains.
+- [OUI Lookup Tool](https://www.wireshark.org/tools/oui-lookup.html) - An online OUI lookup for searching vendors of MAC addresses.
 - [Draw.io](https://github.com/jgraph/drawio-desktop) - An open source software for creating network diagrams and topologies.
 
 ## Certifications
