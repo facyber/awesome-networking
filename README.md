@@ -60,6 +60,7 @@ An awesome collection of courses, books, tutorials, software, and other resource
 by James Forshaw.
 * [Cisco Press](https://www.ciscopress.com/) - Cisco authorized book publisher where you can get all books and official guides for Cisco certifications.
 * [Automate Your Network: Introducing the Modern Approach to Enterprise Network Management](https://www.amazon.com/Automate-Your-Network-Introducing-Enterprise/dp/1799237885) - Probably one of the best books for network automation by John W. Capobianco.
+* [Acing the CCNA Exam](https://www.manning.com/books/acing-the-ccna-exam) - A comprehensive, detailed guide to passing the Cisco Certified Network Associate (CCNA) exam by Jeremy McDowell.
 
 ## Software and Tools
 
