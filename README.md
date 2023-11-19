@@ -70,6 +70,8 @@ by James Forshaw.
 * [Online whois](https://whois.domaintools.com/) - An online whois record tool for getting information about domains.
 * [OUI Lookup Tool](https://www.wireshark.org/tools/oui-lookup.html) - An online OUI lookup for searching vendors of MAC addresses.
 * [MXToolbox](https://mxtoolbox.com/) - A large number of various tools (DNS lookup, MX lookup, Whois, SPF lookup, and more).
+* [who is my isp](https://whois-myisp.com/) - isp lookup tool to check your ISP name
+* [dnslookup](https://dnslookup.pro/) - easy to use dnslookup tool
 
 ### Packet capture and analysis
 
