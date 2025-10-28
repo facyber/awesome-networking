@@ -72,6 +72,7 @@ by James Forshaw.
 * [MXToolbox](https://mxtoolbox.com/) - A large number of various tools (DNS lookup, MX lookup, Whois, SPF lookup, and more).
 * [who is my isp](https://whois-myisp.com/) - isp lookup tool to check your ISP name
 * [dnslookup](https://dnslookup.pro/) - easy to use dnslookup tool
+* [IPv6 / IPv4 Connectivity Test](https://test-ipv6.run/) - A browser-based tool to test IPv4/IPv6 connectivity, measure protocol latency, check dual-stack readiness, and score your network's IPv6 deployment.
 
 ### Packet capture and analysis
 
