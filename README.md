@@ -73,6 +73,7 @@ by James Forshaw.
 * [who is my isp](https://whois-myisp.com/) - isp lookup tool to check your ISP name
 * [dnslookup](https://dnslookup.pro/) - easy to use dnslookup tool
 * [IPv6 / IPv4 Connectivity Test](https://test-ipv6.run/) - A browser-based tool to test IPv4/IPv6 connectivity, measure protocol latency, check dual-stack readiness, and score your network's IPv6 deployment.
+* [NetworkWhois](https://networkwhois.com/) - Free online network diagnostic tools (IP WHOIS, DNS records lookup, DNS propagation, reverse DNS, blacklist checks, SSL checker, website status, and more).
 
 ### Packet capture and analysis
 
