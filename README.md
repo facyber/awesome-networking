@@ -2,6 +2,7 @@
 
 An awesome collection of courses, books, tutorials, software, and other resources about networking.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including network scanning, automated infrastructure monitoring, and multi-agent security orchestration. MIT licensed.
 ## Contents
 
 * [TCP/IP Protocols](#tcpip-protocols)
