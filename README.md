@@ -119,6 +119,7 @@ by James Forshaw.
 * [Nmap](https://nmap.org/) - A free and open source software for network discovery and security auditing.
 * [Zenmap](https://nmap.org/zenmap/) - The official Nmap Security Scanner GUI.
 * [Draw.io](https://github.com/jgraph/drawio-desktop) - An open source software for creating network diagrams and topologies.
+* [Link Budget Calculator](https://github.com/galenthas/link-budget-calculator) - A free Windows GUI for RF and satellite link budget analysis with FSPL, ITU-R atmospheric models, sweep plots, and PDF reports.
 * [idle-less](https://github.com/tvup/idle-less) - A Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN (WoL), enabling energy-efficient homelab setups by letting machines power down when idle.
 
 ## Certifications
