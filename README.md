@@ -72,6 +72,7 @@ by James Forshaw.
 * [MXToolbox](https://mxtoolbox.com/) - A large number of various tools (DNS lookup, MX lookup, Whois, SPF lookup, and more).
 * [who is my isp](https://whois-myisp.com/) - isp lookup tool to check your ISP name
 * [dnslookup](https://dnslookup.pro/) - easy to use dnslookup tool
+* [HackMyIP](https://hackmyip.com/) - Free privacy and security toolkit with 19+ networking tools including IP lookup, DNS lookup, DNS leak test, WebRTC leak test, port scanner, speed test, and more. No registration or API key required.
 * [What Is My IP](https://whatismyip.help/) - A tool for quickly checking your public IPv4 and IPv6 addresses on desktop and mobile, built with privacy and usability in mind.
 * [IPv6 / IPv4 Connectivity Test](https://test-ipv6.run/) - A browser-based tool to test IPv4/IPv6 connectivity, measure protocol latency, check dual-stack readiness, and score your network's IPv6 deployment.
 * [NetworkWhois](https://networkwhois.com/) - Free online network diagnostic tools (IP WHOIS, DNS records lookup, DNS propagation, reverse DNS, blacklist checks, SSL checker, website status, and more).
