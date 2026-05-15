@@ -94,6 +94,7 @@ by James Forshaw.
 * [Cisco Modeling Labs](https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html) - An online platform that helps network engineers simulate the behavior of Cisco routers, switches, and access points. It is intended for customers from enterprise backgrounds.
 * [Cisco Virtual Internet Routing Lab (VIRL)](https://learningnetwork.cisco.com/s/virl) - It is a Cisco IOS-based comprehensive network simulation environment. It is intended for all individuals and trainees.
 * [ContainerLab](https://containerlab.dev/) - A tool to build network topologies using containers.
+* [Open-IPv8-Lab](https://github.com/LF3551/Open-IPv8-Lab) - An experimental userspace IPv8 toolkit implementing draft-thain-ipv8-02 with CLI, routing simulation, and packet analysis.
 
 ### Firewalls and switches
 
