@@ -47,6 +47,7 @@ An awesome collection of courses, books, tutorials, software, and other resource
 * [Networking](https://www.youtube.com/watch?v=rL8RSFQG8do&list=PLF360ED1082F6F2A5) - A series of YouTube tutorials about networking by Eli the Computer Guy.
 * [Wireshark Tutorial for Beginners](https://www.youtube.com/watch?v=flDzURAm8wQ&list=PL6gx4Cwl9DGBI2ZFuyZOl5Q7sptR7PwYN) - TheNewBoston Wireshark Tutorial for Beginners.
 * [MikroTik WinBox Manual](https://wiki.mikrotik.com/wiki/Manual:Winbox) - The official manual for MikroTik's WinBox software.
+* [Networking from Scratch](https://github.com/TanayK07/networking-from-scratch) - 289 hands-on lessons in C and Python covering the full network stack from raw bytes to eBPF.
 
 ## Books
 
