@@ -45,7 +45,7 @@ An awesome collection of courses, books, tutorials, software, and other resource
 ## Tutorials
 
 * [Networking](https://www.youtube.com/watch?v=rL8RSFQG8do&list=PLF360ED1082F6F2A5) - A series of YouTube tutorials about networking by Eli the Computer Guy.
-* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+* [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/ai-networking) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Wireshark Tutorial for Beginners](https://www.youtube.com/watch?v=flDzURAm8wQ&list=PL6gx4Cwl9DGBI2ZFuyZOl5Q7sptR7PwYN) - TheNewBoston Wireshark Tutorial for Beginners.
 * [MikroTik WinBox Manual](https://wiki.mikrotik.com/wiki/Manual:Winbox) - The official manual for MikroTik's WinBox software.
 
