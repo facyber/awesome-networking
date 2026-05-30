@@ -125,6 +125,7 @@ by James Forshaw.
 * [Link Budget Calculator](https://github.com/galenthas/link-budget-calculator) - A free Windows GUI for RF and satellite link budget analysis with FSPL, ITU-R atmospheric models, sweep plots, and PDF reports.
 * [idle-less](https://github.com/tvup/idle-less) - A Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN (WoL), enabling energy-efficient homelab setups by letting machines power down when idle.
 * [Packet Test Bundle](https://github.com/galenthas/packet-test-bundle) - A native Windows GUI bundling iperf2, iperf3, tshark, and ping for network bandwidth and latency testing with live charts.
+* [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking and diagnostics CLI.
 
 ## Certifications
 
