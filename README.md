@@ -106,6 +106,7 @@ by James Forshaw.
 
 ### Remote access and sharing tools
 
+* [AbsoluteTelnet/SSH](https://www.celestialsoftware.net/absolutetelnet/) - A commercial Windows SSH, SFTP, Telnet, and serial terminal client with smart-card authentication, SSH certificates, host CA trust, and terminal emulation.
 * [Remmina](https://remmina.org/) - An open source remote access tool. It supports RDP, SSH, VNC, and other protocols for remote access.
 * [PuTTY](https://www.putty.org/) - One of the most popular SSH and Telnet clients for Windows.
 * [FileZilla](https://filezilla-project.org/) - An open source tool for file transfer. Support FTP, FTPS and SFTP protocols.
