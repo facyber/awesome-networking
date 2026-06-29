@@ -86,6 +86,7 @@ by James Forshaw.
 * [Malware-Traffic-Analysis.net](https://malware-traffic-analysis.net/) - A large collection of malicious PCAP files that can be used to practice packet capture skills.
 * [Publicly Available PCAP files](https://www.netresec.com/?page=PcapFiles) - A list of publicly available PCAP files for additional training.
 * [PWRU (Packet, where are you?)](https://github.com/cilium/pwru) - eBPF-based Linux kernel networking debugger.
+* [nethawk](https://github.com/Flowtriq/nethawk) - Terminal-based network traffic analyzer with real-time protocol breakdown and bandwidth monitoring.
 
 ### Network simulators and emulators
 
@@ -115,7 +116,7 @@ by James Forshaw.
 
 ### DDoS Detection and Mitigation
 
-* [ftagent-lite](https://github.com/Flowtriq/ftagent-lite) - Lightweight open-source DDoS traffic monitor for Linux. Per-packet inspection, detects attack types in real time. MIT license.
+* [ftagent-lite](https://github.com/Flowtriq/ftagent-lite) - Lightweight network traffic monitor with adaptive baseline DDoS detection and sFlow/NetFlow/IPFIX support.
 
 ### Other tools
 
