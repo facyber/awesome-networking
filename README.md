@@ -120,6 +120,7 @@ by James Forshaw.
 ### Other tools
 
 * [Nmap](https://nmap.org/) - A free and open source software for network discovery and security auditing.
+* [Pilot Protocol](https://pilotprotocol.network) - Open-source overlay network giving AI agents a permanent virtual address, encrypted UDP tunnels (X25519 + AES-GCM), STUN/hole-punching NAT traversal with relay fallback, and an explicit per-peer trust model. Go, stdlib-only, AGPL-3.0.
 * [Zenmap](https://nmap.org/zenmap/) - The official Nmap Security Scanner GUI.
 * [Draw.io](https://github.com/jgraph/drawio-desktop) - An open source software for creating network diagrams and topologies.
 * [Link Budget Calculator](https://github.com/galenthas/link-budget-calculator) - A free Windows GUI for RF and satellite link budget analysis with FSPL, ITU-R atmospheric models, sweep plots, and PDF reports.
