@@ -126,6 +126,8 @@ by James Forshaw.
 * [idle-less](https://github.com/tvup/idle-less) - A Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN (WoL), enabling energy-efficient homelab setups by letting machines power down when idle.
 * [Packet Test Bundle](https://github.com/galenthas/packet-test-bundle) - A native Windows GUI bundling iperf2, iperf3, tshark, and ping for network bandwidth and latency testing with live charts.
 
+* [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) - A cross-platform desktop GUI client for FRP (Fast Reverse Proxy), built with Tauri v2, Vue 3, and Rust. Available for macOS and Windows.
+
 ## Certifications
 
 * [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
