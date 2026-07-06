@@ -71,6 +71,7 @@ by James Forshaw.
 * [Online whois](https://whois.domaintools.com/) - An online whois record tool for getting information about domains.
 * [OUI Lookup Tool](https://www.wireshark.org/tools/oui-lookup.html) - An online OUI lookup for searching vendors of MAC addresses.
 * [MXToolbox](https://mxtoolbox.com/) - A large number of various tools (DNS lookup, MX lookup, Whois, SPF lookup, and more).
+* [DNSai](https://dnsai.com/dns-tools/) - Free DNS, WHOIS, SPF, DKIM, DMARC and blacklist lookup tools with plain-English results, plus a free API and MCP server for AI assistants. No signup required.
 * [who is my isp](https://whois-myisp.com/) - isp lookup tool to check your ISP name
 * [dnslookup](https://dnslookup.pro/) - easy to use dnslookup tool
 * [What Is My IP](https://whatismyip.help/) - A tool for quickly checking your public IPv4 and IPv6 addresses on desktop and mobile, built with privacy and usability in mind.
