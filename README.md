@@ -76,6 +76,7 @@ by James Forshaw.
 * [What Is My IP](https://whatismyip.help/) - A tool for quickly checking your public IPv4 and IPv6 addresses on desktop and mobile, built with privacy and usability in mind.
 * [IPv6 / IPv4 Connectivity Test](https://test-ipv6.run/) - A browser-based tool to test IPv4/IPv6 connectivity, measure protocol latency, check dual-stack readiness, and score your network's IPv6 deployment.
 * [NetworkWhois](https://networkwhois.com/) - Free online network diagnostic tools (IP WHOIS, DNS records lookup, DNS propagation, reverse DNS, blacklist checks, SSL checker, website status, and more).
+* [Valla DNS](https://valladns.com) - Free, no-signup tools for DNS lookups, global propagation, WHOIS, SSL/TLS grading, and email health (SPF/DKIM/DMARC/blacklist) checks.
 
 ### Packet capture and analysis
 
