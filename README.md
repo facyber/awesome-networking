@@ -97,6 +97,7 @@ by James Forshaw.
 * [ContainerLab](https://containerlab.dev/) - A tool to build network topologies using containers.
 * [Open-IPv8-Lab](https://github.com/LF3551/Open-IPv8-Lab) - An experimental userspace IPv8 toolkit implementing draft-thain-ipv8-02 with CLI, routing simulation, and packet analysis.
 * [NodalArc](https://github.com/dotchance/nodalarc) - An open-source satellite network emulator that runs real Linux routing stacks (FRR with IS-IS, OSPF, BGP, and MPLS) on top of moving LEO topology. Satellites are Linux network namespaces; orbital motion drives carrier transitions, link latency, and ground-station handoffs.
+* [Aurora](https://github.com/Daniele-Cangi/Aurora) - A C++20 network research testbed for deterministic heterogeneous-network simulation and authenticated process-separated UDP transport emulation, with reproducible testing of fixed and bio-inspired adaptive protection policies.
 
 ### Firewalls and switches
 
