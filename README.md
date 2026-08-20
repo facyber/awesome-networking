@@ -41,6 +41,7 @@ An awesome collection of courses, books, tutorials, software, and other resource
 * [ipSpace](https://www.ipspace.net/) - Contains excellent courses and webinars on various network topics, for both beginners and advanced people.
 * [GNS3 Academy](https://academy.gns3.com/) - A various number of courses related to networking with GNS3 software.
 * [The Complete Networking Fundamentals Course](https://www.udemy.com/complete-networking-fundamentals-course-ccna-start/) - The most popular Networking Essentials course on Udemy.
+* [Subnetica](https://subnetica.xyz/learn) - Hands-on networking learning platform with structured lessons, quizzes, and browser-based FRRouting/Linux labs.
 
 ## Tutorials
 
