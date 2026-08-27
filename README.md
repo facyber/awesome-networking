@@ -86,6 +86,7 @@ by James Forshaw.
 * [Malware-Traffic-Analysis.net](https://malware-traffic-analysis.net/) - A large collection of malicious PCAP files that can be used to practice packet capture skills.
 * [Publicly Available PCAP files](https://www.netresec.com/?page=PcapFiles) - A list of publicly available PCAP files for additional training.
 * [PWRU (Packet, where are you?)](https://github.com/cilium/pwru) - eBPF-based Linux kernel networking debugger.
+* [Rockxy](https://github.com/RockxyApp/Rockxy) - An open source native macOS HTTP debugging proxy for inspecting HTTPS, API, WebSocket, and GraphQL traffic.
 
 ### Network simulators and emulators
 
