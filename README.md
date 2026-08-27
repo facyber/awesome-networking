@@ -103,6 +103,7 @@ by James Forshaw.
 * [pfSense](https://www.pfsense.org/) - An open source firewall/router computer software distribution based on FreeBSD.
 * [OPNsense](https://opnsense.org/) - OPNsense is an open source, easy-to-use, and easy-to-build FreeBSD based firewall and routing platform.
 * [Open vSwitch](https://www.openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch licensed under the open source Apache 2.0 license.
+* [Shieldxy](https://github.com/RockxyApp/Shieldxy) - An open source, auditable application firewall and connection monitor for macOS.
 
 ### Remote access and sharing tools
 
