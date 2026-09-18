@@ -120,6 +120,7 @@ by James Forshaw.
 ### Other tools
 
 * [Nmap](https://nmap.org/) - A free and open source software for network discovery and security auditing.
+* [netband](https://github.com/gregl83/netband) - Terminal network tester that combines continuous ping monitoring, packet loss detection, and NDT7 bandwidth tests.
 * [Zenmap](https://nmap.org/zenmap/) - The official Nmap Security Scanner GUI.
 * [Draw.io](https://github.com/jgraph/drawio-desktop) - An open source software for creating network diagrams and topologies.
 * [Link Budget Calculator](https://github.com/galenthas/link-budget-calculator) - A free Windows GUI for RF and satellite link budget analysis with FSPL, ITU-R atmospheric models, sweep plots, and PDF reports.
