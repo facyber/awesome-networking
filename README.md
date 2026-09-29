@@ -126,6 +126,12 @@ by James Forshaw.
 * [idle-less](https://github.com/tvup/idle-less) - A Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN (WoL), enabling energy-efficient homelab setups by letting machines power down when idle.
 * [Packet Test Bundle](https://github.com/galenthas/packet-test-bundle) - A native Windows GUI bundling iperf2, iperf3, tshark, and ping for network bandwidth and latency testing with live charts.
 
+### Fiber optics
+
+* [OTDR Master](https://otdrmaster.com/en) - A browser-based viewer for fiber-optic OTDR measurement files (.sor, .msor, .trc, .tst and other vendor formats) with event table, cursor measurements and PDF report, free with an optional paid plan.
+* [otdrs](https://github.com/JamesHarrison/otdrs) - A Rust library and command-line tool that reads and writes OTDR .sor files and converts them to JSON.
+* [pyOTDR](https://github.com/sid5432/pyOTDR) - A Python parser for OTDR .sor files that dumps the trace and the event table.
+
 ## Certifications
 
 * [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
