@@ -40,7 +40,7 @@ An awesome collection of courses, books, tutorials, software, and other resource
 * [CBT Nuggets](https://www.cbtnuggets.com/) - An excellent place to start with the courses on various topics (Cisco, Juniper, CompTIA, etc.).
 * [ipSpace](https://www.ipspace.net/) - Contains excellent courses and webinars on various network topics, for both beginners and advanced people.
 * [GNS3 Academy](https://academy.gns3.com/) - A various number of courses related to networking with GNS3 software.
-* [The Complete Networking Fundamentals Course](https://www.udemy.com/complete-networking-fundamentals-course-ccna-start/) - The most popular Networking Essentials course on Udemy.
+* [FortiGate Firewall Administration & Security Masterclass](https://www.udemy.com/course/fortigate-firewall-administration-security-masterclass/?referralCode=5CD7140B670ED8033537) - The most popular Networking Essentials course on Udemy.
 
 ## Tutorials
 
