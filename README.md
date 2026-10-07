@@ -126,6 +126,8 @@ by James Forshaw.
 * [idle-less](https://github.com/tvup/idle-less) - A Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN (WoL), enabling energy-efficient homelab setups by letting machines power down when idle.
 * [Packet Test Bundle](https://github.com/galenthas/packet-test-bundle) - A native Windows GUI bundling iperf2, iperf3, tshark, and ping for network bandwidth and latency testing with live charts.
 
+* [Handshaked UDP](https://github.com/kewl-ua/handshaked_udp) - C UDP session library with a userspace CGNAT emulator for testing mapping expiry, port changes, delay and packet loss.
+
 ## Certifications
 
 * [Cisco certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)
