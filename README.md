@@ -74,8 +74,12 @@ by James Forshaw.
 * [who is my isp](https://whois-myisp.com/) - isp lookup tool to check your ISP name
 * [dnslookup](https://dnslookup.pro/) - easy to use dnslookup tool
 * [What Is My IP](https://whatismyip.help/) - A tool for quickly checking your public IPv4 and IPv6 addresses on desktop and mobile, built with privacy and usability in mind.
-* [IPv6 / IPv4 Connectivity Test](https://test-ipv6.run/) - A browser-based tool to test IPv4/IPv6 connectivity, measure protocol latency, check dual-stack readiness, and score your network's IPv6 deployment.
+* [IPv6 / IPv4 Connectivity Test](https://test-ipv6.run/) - A browser-based tool to test IPv4/IPv6 connectivity, measure protocol latency, check dual-stack readiness, and score your network's IPv6
+* [17NAS IP Test](https://17nas.com/ip-test.php) - Free online IP lookup; check your public IPv4/IPv6 address, location and ISP, no signup.deployment.
 * [NetworkWhois](https://networkwhois.com/) - Free online network diagnostic tools (IP WHOIS, DNS records lookup, DNS propagation, reverse DNS, blacklist checks, SSL checker, website status, and more).
+
+* [17NAS HTTPS Check](https://17nas.com/https-check.php) - Free online HTTPS/SSL checker; verify certificates, expiry and security headers, no signup.
+[17NAS HTTPS Check](https://17nas.com/https-check.php) - Free online HTTPS/SSL checker; verify certificates, expiry and security headers, no signup.
 
 ### Packet capture and analysis
 
