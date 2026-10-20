@@ -112,6 +112,7 @@ by James Forshaw.
 * [WinSCP](https://winscp.net/eng/index.php) - A popular SFTP client and FTP client for Windows.
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - A commercial SSH and Telnet client and terminal emulator by VanDyke Software.
 * [WinBox](https://mikrotik.com/download) - Official MikroTik GUI software for administration of MikroTik RouterOS.
+* [NSL.SH](https://nsl.sh/) - A free, open-source domain routing service that exposes self-hosted services on an HTTPS subdomain without port forwarding.
 
 ### DDoS Detection and Mitigation
 
