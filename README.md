@@ -62,6 +62,7 @@ by James Forshaw.
 * [Cisco Press](https://www.ciscopress.com/) - Cisco authorized book publisher where you can get all books and official guides for Cisco certifications.
 * [Automate Your Network: Introducing the Modern Approach to Enterprise Network Management](https://www.amazon.com/Automate-Your-Network-Introducing-Enterprise/dp/1799237885) - Probably one of the best books for network automation by John W. Capobianco.
 * [Acing the CCNA Exam](https://www.manning.com/books/acing-the-ccna-exam) - A comprehensive, detailed guide to passing the Cisco Certified Network Associate (CCNA) exam by Jeremy McDowell.
+  - [Your Home Network, Divided: Segment, secure, and troubleshoot your homelab with confidence](https://tailoredread.com/book/your-home-network-divided-segment-secure-2c9f1678fa65) - Free complete book on home network segmentation and homelab security, written with AI. Read online or download the PDF or EPUB.
 
 ## Software and Tools
 
