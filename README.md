@@ -112,6 +112,7 @@ by James Forshaw.
 * [WinSCP](https://winscp.net/eng/index.php) - A popular SFTP client and FTP client for Windows.
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - A commercial SSH and Telnet client and terminal emulator by VanDyke Software.
 * [WinBox](https://mikrotik.com/download) - Official MikroTik GUI software for administration of MikroTik RouterOS.
+* [JackedIN](https://getjackedin.com/) - An SSH, Telnet, and serial terminal for network gear, with built-in profiles for Junos, Cisco IOS/NX-OS, Arista, Nokia, MikroTik, and more.
 
 ### DDoS Detection and Mitigation
 
