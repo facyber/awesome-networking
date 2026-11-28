@@ -79,6 +79,8 @@ by James Forshaw.
 
 ### Packet capture and analysis
 
+- [PCAP Surgery](https://hannes-software.com/pcap-surgery/) - Offline desktop PCAP/PCAPNG analyzer, deterministic header redaction, and automatic IPv4/TCP/UDP checksum repair tool for Windows & Linux (free Community Edition).
+
 * [Wireshark](https://www.wireshark.org/) - The most popular free and open source network protocol analyzer.
 * [Tshark](https://tshark.dev/) - A CLI version of Wireshark.
 * [tcpdump](http://www.tcpdump.org/) - A powerful open source command-line packet analyzer.
